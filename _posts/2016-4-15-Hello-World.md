@@ -1,11 +1,10 @@
 ---
 layout: post
-title: A New Thought Form: from the Pyramid to the Blockchain
+title: You're up and running!
 ---
 
-The Universe is both fractal (the same pattern of wholeness is found at every scale) and holographic (the wholeness is present everywhere and within every entity), as well as synergetic (the whole is greater than and unpredictable from the sum of the parts). 
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-Source: http://www.cosmometry.net/fractal-holographic-synergetic-universe 
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
-
-
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
