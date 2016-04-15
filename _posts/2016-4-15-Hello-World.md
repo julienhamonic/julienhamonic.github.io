@@ -18,5 +18,3 @@ NuShareholders mirror holographically the whole blockchain, this pattern of bloc
 
 May the Blockchain be spread fractally, holographically and synergetically!
 
-
-![Holographic fractal](http://i.imgur.com/hmJp9K9.jpg)
