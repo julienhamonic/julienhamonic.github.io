@@ -7,6 +7,8 @@ title: 'A New Thought Form: from the Pyramid to the Blockchain'
 
 Source: http://www.cosmometry.net/fractal-holographic-synergetic-universe 
 
+<br>
+
 
 
 The world has been run for close to 20,000 years on the pyramidal structure -- Pyramids are everywhere on the globe, repeated fractally, distributed holographically and have worked synegetically.
