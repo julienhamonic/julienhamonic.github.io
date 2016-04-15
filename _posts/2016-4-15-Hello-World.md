@@ -16,7 +16,7 @@ Take a look at Nu, the DAO that is issuing the dollar pegged US-NBT.
 NuShareholders mirror holographically the whole blockchain, this pattern of blockchain being found again in another scale of itself, BCex. Though its parts are not related by any hierarchical relationship, the whole is greater than the sum of its parts and produce a meaningly business value.
 
 
-_May the Blockchain be spread fractally, holographically and synergetically!_
+May the Blockchain be spread fractally, holographically and synergetically!
 
 
 ![Holographic fractal](http://i.imgur.com/hmJp9K9.jpg)
