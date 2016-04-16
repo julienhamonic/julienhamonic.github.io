@@ -18,9 +18,13 @@ Smart CEOs and companies understand that and will ask to recruit for _genuises_,
 How do we do that at Descartes Search LLC? 
 
 We partner with our clients, as if we were a VC, but instead of money we provide very Human Capital for their entrepreneurial ventures or projects:
+
 + we have a very close relationship with our clients, so that we shall consult as _HR in interim_ and _PR in interim_ for them.
+
 + we choose our clients: we are with them for the long run and we invest our human capital into it.
+
 + we entertain a relationship of great mutual respect.
+
 
 Because the client has an exciting future and plans that are promotable, we are excited to co-create their reality as a business and lend our recruiting service in interim.
 
@@ -28,6 +32,5 @@ We can then weigh on their HR policy, without sitting on the board, communicatin
 
 We are able to bring client Human Capital of tremendous value.
 
-<br>
 
-Contact Descartes Search[here](http://descartes-search.com/contact_en.php) if you are interested in our HVC.
+Contact Descartes Search [here](http://descartes-search.com/contact_en.php) if you are interested in our HVC.
