@@ -17,7 +17,7 @@ Smart CEOs and companies understand that and will ask to recruit for _genuises_,
 
 How do we do that at Descartes Search LLC? 
 
-We partner with our clients, as if we were a VC, but instead of money we provide very Human Capital for their entrepreneurial ventures or projects:
+We partner with our clients, as if we were a VC, but instead of money we provide Human Capital for their entrepreneurial ventures or projects:
 
 + we have a very close relationship with our clients, so that we shall consult as _HR in interim_ and _PR in interim_ for them.
 
