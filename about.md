@@ -37,7 +37,7 @@ Academic background:
 - MS EE (Electrical Engineering), ENSEA
 
 
-When he isn't not discussing the Blockchain with his twin brother Pascal (aka cryptog) with whom he has co-founded all his enterprises, he can usually be found on the [NuBits forum](https://discuss.nubits.com/) to which he is providing a [voting data feed](https://discuss.nubits.com/t/crypto-coiners-nu-data-feeds/3138), or outdoors enjoying the sun with his family.
+When he is not discussing the Blockchain with his twin brother Pascal (aka cryptog) with whom he has co-founded all his enterprises, he can usually be found on the [NuBits forum](https://discuss.nubits.com/) to which he is providing a [voting data feed](https://discuss.nubits.com/t/crypto-coiners-nu-data-feeds/3138), or outdoors enjoying the sun with his family.
 
 ### Contact me
 
