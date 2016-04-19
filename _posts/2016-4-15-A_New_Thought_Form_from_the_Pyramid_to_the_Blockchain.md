@@ -11,7 +11,7 @@ Source: http://www.cosmometry.net/fractal-holographic-synergetic-universe
 
 
 
-The world has been run for close to 20,000 years on the pyramidal structure -- Pyramids are everywhere on the globe, repeated fractally, distributed holographically and have worked synergetically.
+The world has been run for close to 13,000 years on the pyramidal structure -- Pyramids are everywhere on the globe, repeated fractally, distributed holographically and have worked synergetically.
 
 A new thought form to structure organizations is emerging: the Blockchain.
 
