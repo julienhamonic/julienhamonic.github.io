@@ -9,6 +9,6 @@ The pyramidal thought form: it starts with _most_ of the single individuals slav
 
 <br>
 
-The blockchain though form: it begins with the single individual node containing the whole, connected to other single individual nodes containing as well the whole and expands with the single individual node containing the whole.
+The blockchain thought form: it begins with the single individual node containing the whole, connected to other single individual nodes containing as well the whole and expands with the single individual node containing the whole.
 
 ![Blockchain](https://raw.githubusercontent.com/julienhamonic/julienhamonic.github.io/master/images/blockchain%20symbol.png)
