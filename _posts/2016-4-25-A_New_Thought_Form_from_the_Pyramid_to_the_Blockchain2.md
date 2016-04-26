@@ -3,7 +3,7 @@ layout: post
 title: 'A New Thought Form: from the Pyramid to the Blockchain (part2)'
 ---
 
-The pyramidal thought form: it starts with _most_ of the single individuals slave at the base and completes with a few masters at the top. In between, a hierarchy of levels is built in to justify that energy is sucked from the bottom to the captsone.
+The pyramidal thought form: it starts with _most_ of the single individuals slave at the base and completes with a few masters at the top. In between, a hierarchy of levels is built in to justify that energy is sucked from the bottom to the captsone. Level n delegates to level (n+1).
 
 ![Pyramid](https://raw.githubusercontent.com/julienhamonic/julienhamonic.github.io/master/images/maxresdefault.jpg)
 
