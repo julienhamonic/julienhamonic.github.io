@@ -5,7 +5,7 @@ title: 'Company, Blk.'
 
 Incorporations are a structure and organization scheme by which groups of investors co-finance a project and garner potentially profits and dividends.
 This has been running hundreds of years, tethering the pyramidal structure of the royalties and has had to comply with the physical laws of the Real world.
-Though this has sparked several industrial revolutions, brought some great innovation to Humanity, it has had also many drawbacks like: 
+Though this has sparked several industrial revolutions, brought some great innovations to Humanity, it has had also many drawbacks like: 
 
 + over-exploited workers
 
@@ -16,8 +16,8 @@ Though this has sparked several industrial revolutions, brought some great innov
 <br>
 However, now for the time in Humanity history, a new type of business organization is being born and applied: _The blockchained company (Blk.)_
 <br>
-Succesful applications are through the [_Peershares_](https://bitbucket.org/JordanLeePeershares/) template. <br>
-So far, there are 2 Blk that exist: [Nu](https://nubits.com/) and [B&C exchange](https://bcexchange.org/).
+Successful applications are through the [_Peershares_](https://bitbucket.org/JordanLeePeershares/) template. <br>
+So far, there are 2 Blk. that exist: [Nu](https://nubits.com/) and [B&C exchange](https://bcexchange.org/).
 
 Some characteristics of the Blk. :
 
