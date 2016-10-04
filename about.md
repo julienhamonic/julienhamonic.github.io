@@ -37,4 +37,6 @@ Academic background:
 
 [Email](mailto:gbboy@bunkersofa.com)
 
+[Angel.co](https://angel.co/gbboy)
+
  
