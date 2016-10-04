@@ -9,7 +9,7 @@ permalink: /about/
 I am a very new kind of entrepreneur and investor, based out of Tokyo. I have been since 2007.
 I believe in perpetual personal positive growth.
 
-Motto: "There are no problems, only opportunities for growth."
+Motto: "There are no problems, only opportunities for growth." 
 
 ### Current roles
 
