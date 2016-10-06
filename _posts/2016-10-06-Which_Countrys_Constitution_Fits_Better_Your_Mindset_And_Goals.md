@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Which country constitution fits better your mindset and goals?'
+title: 'Which country\'s constitution fits better your mindset and goals?'
 ---
 
 
