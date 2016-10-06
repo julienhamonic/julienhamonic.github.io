@@ -7,7 +7,7 @@ permalink: /about/
 ### In short
 
 I am a very new kind of entrepreneur and investor, based out of Tokyo. I have been since 2007.
-I believe in perpetual personal positive growth.
+I believe in and aim at perpetual personal positive growth.
 
 Motto: "There are no problems, only opportunities for growth." 
 
@@ -24,7 +24,7 @@ Motto: "There are no problems, only opportunities for growth."
 - Co-founder at [NuVentures](http://nuventures.org/), the 1st VC for Peershares companies in the world.
 
 
-He has a strong foundation of Philosophy and Computer Science.
+Have a strong foundation of Philosophy and Computer Science.
 
 Academic background:
 
