@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Which country \'s constitution fits better your mindset and goals?'
+title: 'Which country \'\s constitution fits better your mindset and goals?'
 ---
 
 
-America: "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." (Declaration of Independence) 
+- America: "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." (Declaration of Independence) 
 <br>
 --> GENUINELY LIBERTY-ORIENTED 
 
