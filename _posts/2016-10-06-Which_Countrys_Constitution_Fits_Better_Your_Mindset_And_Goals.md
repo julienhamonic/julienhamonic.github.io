@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Which country's constitution fits better your mindset and goals?'
+title: 'A New Thought Form: from the Pyramid to the Blockchain'
 ---
 
 
