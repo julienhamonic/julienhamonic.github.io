@@ -12,6 +12,6 @@ You control the flow of emotions (what goes in), you control what goes out: your
 <br>
 <br>
 
-![The Consciousness Iceberg](https://github.com/julienhamonic/julienhamonic.github.io/blob/master/images/iceberg-1321692_960_720.png)
+![The Consciousness Iceberg](https://raw.githubusercontent.com/julienhamonic/julienhamonic.github.io/master/images/iceberg-1321692_960_720.png)
 
 
