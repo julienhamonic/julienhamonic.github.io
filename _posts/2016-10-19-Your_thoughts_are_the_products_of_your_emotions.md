@@ -3,7 +3,7 @@ layout: post
 title: 'Your thoughts are the products of your emotions'
 ---
 
-<br><br>
+<br>
 Who/what is generating decisions for you? not your mind, but your e-motions. That's simple as that.
 <Br>
 Your thoughts are the products of your emotions.
