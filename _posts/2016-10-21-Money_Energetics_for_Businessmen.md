@@ -21,6 +21,6 @@ You are in control and put yourself in the timeline of your choice (1) <br>
 vs <br>
 You are under control and put yourself in the timeline of their choice (2)
 <br> <br>
-Money is to be made in former case since you are rewarded within a process (convenants)that you control.
-<br><br>
-The latter case: you might be stolen, taken advantage of or lied to in a false hope selling scheme.
+Money is to be made in the former case since you are rewarded within a process (convenants)that you control.
+<br>
+In the latter case: you might be stolen, taken advantage of or lied to in a false hope selling scheme.
