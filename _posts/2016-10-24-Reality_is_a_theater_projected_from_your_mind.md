@@ -4,15 +4,15 @@ title: 'Reality is a theater projected from your mind'
 ---
 
 The physical plane is the subtrate where we see the resultant of what we actually do in higher realms.
-More geometrically speaking, our paths in the physical realm are the trace of our deliberate actions in the emotional plane.
-We are passive in the projected plane.
+More geometrically speaking, our paths in the physical realm are the trace of our deliberate actions in the emotional plane.<br>
+We are passive in the projected plane.<br>
 We are active in the space from which we project.
 
-To the businessman, the main question is: 
-Do you focus on effects of actions or causes that put them into effect?
-Money and happiness is where there's control, that is of course the latter case.
+To the businessman, the main question is: <br>
+Do you focus on the effects of actions or the causes that put them into effect?<br>
+Money and happiness can be reached if you are in control, that is of course the latter case.<br>
 Causes pertain to Ethereality (dimension 4). Effects pertain to the physical Reality (dimension 3).
-
+<br><br>
 Other questions:
 
 - What plays the role of the projector?
