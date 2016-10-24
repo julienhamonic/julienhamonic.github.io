@@ -8,12 +8,24 @@ More geometrically speaking, our paths in the physical realm are the trace of ou
 We are passive in the projected plane.
 We are active in the space from which we project.
 
-To the businessman, the question is: 
+To the businessman, the main question is: 
 Do you focus on effects of actions or causes that put them into effect?
 Money and happiness is where there's control, that is of course the latter case.
-Causes pertain to Ethereality (dimension 4). Effects pertain to Reality (dimension 3).
+Causes pertain to Ethereality (dimension 4). Effects pertain to the physical Reality (dimension 3).
 
 Other questions:
- - what plays the role of the projector?
+
+- What plays the role of the projector?
+
+The pineal gland (contains a high density of piezoelectric crystals).
+The physical reality is the space where you project what you see in these higher realms.
+Work on the Ethereal space and then reap the effects on and within the material reality.
+
+- How can we reach and work within the Ethereal space?
+ 
+Through the pineal gland.
+It is also the portal to these spaces of higher dimensions, Ethereality, Emotional plane, Astral Plane, Concepts and so forth.
+One can go back and forth between the physical (solid and fixed reality) and the ethereal world (dream astral state) trough this internal portal.
+If you can do this at a high rate of vibration, you reach the state of so called geniuses.
 
 
