@@ -15,6 +15,10 @@ Motto: "There are no problems, only opportunities for growth."
 
 - Co-Founder at [Descartes Search LLC](http://descartes-search.com/), the most connected tech recruiting firm in Tokyo (est. 2007).
 
+- Venture Partner (Human Capital) | Private Equity & Investment. Current services available: [here](https://docs.google.com/document/d/1G25Z_W5nZxbsLQMkz4leSds3f5T1MqsTI7NLI1fCK9c/edit?usp=sharing).
+
+
+
 Have a strong foundation of Philosophy and Computer Science.
 
 Academic background:
