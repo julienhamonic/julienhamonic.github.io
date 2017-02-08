@@ -15,13 +15,7 @@ Motto: "There are no problems, only opportunities for growth."
 
 - Co-Founder at [Descartes Search LLC](http://descartes-search.com/), the most connected tech recruiting firm in Tokyo (est. 2007).
 
- - co-founder of [Satoshiscollar.jp](http://satoshiscollar.jp/), the 1st recruiting hub for Blockchain companies in Japan.
- 
- - co-founder of [Turingscollar.jp](http://turingscollar.jp/), the 1st recruiting hub for AI companies in Japan.
- 
-- Co-Founder at [BunkerSofa LLC](http://bunkersofa.com/), a Tokyo-based consulting firm helping very disruptive tech startups with financing, business development, marketing and recruiting.
-
-- Co-founder at [NuVentures](http://nuventures.org/), the 1st VC for Peershares companies in the world.
+ - Venture Partner (Human Capital) | Private Equity & Investment. Current services available [here](https://docs.google.com/document/d/1G25Z_W5nZxbsLQMkz4leSds3f5T1MqsTI7NLI1fCK9c/edit?usp=sharing).
 
 
 Have a strong foundation of Philosophy and Computer Science.
