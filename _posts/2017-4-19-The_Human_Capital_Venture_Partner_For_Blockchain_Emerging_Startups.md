@@ -12,7 +12,6 @@ The companies that rely on Julien Hamonic are defined as per the following:<br>
 * blockchain-based DACs <br>
 * blockchain startups <br>
 <br>
-<br>
 Services: <br>
 I know hiring is hard. I’ll make it much easier for you. <br>
 The best companies are driven by rock-solid teams. <br>
