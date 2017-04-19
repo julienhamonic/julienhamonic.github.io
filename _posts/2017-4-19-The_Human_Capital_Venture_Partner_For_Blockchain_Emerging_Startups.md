@@ -36,8 +36,6 @@ It depends on the size and the round of your organization.<br>
 Request for services rendered: founders crypto tokens: <br>
 - pre-ICO: 5-20%  of the crypto tokens <br>
 - post ICO: 1-5% of the crypto tokens <br>
-<br>
-<br>
 2)Consulting plan: <br>
 Request for services rendered: crypto tokens <br>
 30~50% of the total compensation of the person placed <br>
