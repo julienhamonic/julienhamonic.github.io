@@ -15,6 +15,8 @@ Motto: "There are no problems, only opportunities for growth."
 
 - Co-Founder at [Descartes Search LLC](http://descartes-search.com/), the most connected tech recruiting firm in Tokyo (est. 2007).
 
+- Co-Founder at Satoshiscollar (), our recruiting service dedicated to the recruiting of engineers and human resources highly skilled and interested in the blockchain technology.
+
 - Venture Partner (Human Capital), Private Equity & Investment. Current services available: [here](https://docs.google.com/document/d/1G25Z_W5nZxbsLQMkz4leSds3f5T1MqsTI7NLI1fCK9c/edit?usp=sharing).
 
 
