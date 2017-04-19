@@ -33,7 +33,7 @@ I work with ventures and other angels. <br>
 Fees: <br>
 It depends on the size and the round of your organization.<br>
 1)Partnership plan <br>
-Request for services rendered: founders stock non dilutable: <br>
+Request for services rendered: founders crypto tokens: <br>
 - pre-ICO: 5-20%  of the crypto tokens <br>
 - post ICO: 1-5% of the crypto tokens <br>
 <br>
