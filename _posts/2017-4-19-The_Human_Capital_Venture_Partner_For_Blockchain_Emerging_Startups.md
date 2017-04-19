@@ -10,7 +10,7 @@ I am the most connected person to bitcoin and blockchain talent on LinkedIn. <br
 Clients:<br>
 The companies that rely on Julien Hamonic are defined as per the following:<br>
 * blockchain-based DACs <br>
-* private equity and angel-backed startups <br>
+* blockchain startups <br>
 <br>
 <br>
 Services: <br>
@@ -34,8 +34,8 @@ Fees: <br>
 It depends on the size and the round of your organization.<br>
 1)Partnership plan <br>
 Request for services rendered: founders stock non dilutable: <br>
-- pre-funded: 5-20%  or equivalent in crypto tokens <br>
-- funded startup: 1-5% or equivalent in crypto tokens <br>
+- pre-ICO: 5-20%  of the crypto tokens <br>
+- post ICO: 1-5% of the crypto tokens <br>
 <br>
 2)Consulting plan <br>
 Request for services rendered: crypto tokens <br>
