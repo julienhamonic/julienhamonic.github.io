@@ -23,9 +23,9 @@ From engineers to co-founders up to advisors and CxO, and from writing job descr
 Typically, I am your VP of talent sitting on your board of directors in your company to start the team that will build or consolidate a prototype,a product to attract investors or users. <br>
 I can find engineers, hackers, investors, potentially anybody. <br>
 <br>
-Talent Bank: <br>
-30k direct connections on LinkedIn <br>
-Thousands of entries in private db (coming from proprietary http://satoshiscollar.jp/) <br>
+Blockchain Talent Bank: <br>
+More than 2,000 individuals worldwide (Linkedin connections) <br>
+Thousands of entries in private db (coming from proprietary [Satoshiscollar](http://satoshiscollar.jp/) and [Descartes Search](http://descartes-search.com/index_en.html)) <br>
 <br>
 Partners: <br>
 I work with ventures and other angels. <br>
