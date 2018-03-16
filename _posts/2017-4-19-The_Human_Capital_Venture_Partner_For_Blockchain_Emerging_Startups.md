@@ -40,4 +40,4 @@ Vesting period: variable<br>
 <br>
 2. Consulting plan <br>
 Request for services rendered -> crypto tokens <br>
-30~50% of the total compensation of the person placed <br>
+25~50% of the total compensation of the person placed <br>
